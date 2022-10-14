@@ -1,2 +1,2 @@
 # portfolio
- https://mahedi066.github.io/myportfolio/
+ https://mahedi066.github.io/myportfoli/
